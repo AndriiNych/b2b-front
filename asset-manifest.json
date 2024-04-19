@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/b2b-front/static/css/main.ecf16c6c.css",
+    "main.js": "/b2b-front/static/js/main.092d6274.js",
+    "index.html": "/b2b-front/index.html",
+    "main.ecf16c6c.css.map": "/b2b-front/static/css/main.ecf16c6c.css.map",
+    "main.092d6274.js.map": "/b2b-front/static/js/main.092d6274.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf16c6c.css",
+    "static/js/main.092d6274.js"
+  ]
+}
